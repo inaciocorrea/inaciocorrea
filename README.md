@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on management.
+- 📫 How to reach me: luiz.inacio.correa@gmail.com
+- 😄 Pronouns: he/his/him
+
 <!--
 **inaciocorrea/inaciocorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
